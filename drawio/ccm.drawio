@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T07:46:21.652Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="FYwM3-pxWJvo53Gk4URk" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-12T07:46:37.942Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="AktoPDT8gwkgcuTWRCe0" type="github" pages="4">
   <diagram id="G4YbkNKK7T9ojeRpeivn" name="架构图">
     <mxGraphModel dx="1153" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="M0PuQdPBtQ2sDzGUFWcR-9" value="商户代理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M0PuQdPBtQ2sDzGUFWcR-45">
           <mxGeometry x="110" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M0PuQdPBtQ2sDzGUFWcR-11" value="外部商户1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M0PuQdPBtQ2sDzGUFWcR-45">
+        <mxCell id="M0PuQdPBtQ2sDzGUFWcR-11" value="外部商户1...N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M0PuQdPBtQ2sDzGUFWcR-45">
           <mxGeometry x="110" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M0PuQdPBtQ2sDzGUFWcR-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="M0PuQdPBtQ2sDzGUFWcR-45" source="M0PuQdPBtQ2sDzGUFWcR-9" target="M0PuQdPBtQ2sDzGUFWcR-11">
@@ -103,7 +103,7 @@
         <mxCell id="M0PuQdPBtQ2sDzGUFWcR-54" value="商户代理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M0PuQdPBtQ2sDzGUFWcR-46">
           <mxGeometry x="110" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M0PuQdPBtQ2sDzGUFWcR-55" value="外部商户2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M0PuQdPBtQ2sDzGUFWcR-46">
+        <mxCell id="M0PuQdPBtQ2sDzGUFWcR-55" value="外部商户1...N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="M0PuQdPBtQ2sDzGUFWcR-46">
           <mxGeometry x="110" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M0PuQdPBtQ2sDzGUFWcR-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="M0PuQdPBtQ2sDzGUFWcR-46" source="M0PuQdPBtQ2sDzGUFWcR-54" target="M0PuQdPBtQ2sDzGUFWcR-55">
