@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T07:33:35.119Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="ZdPQ-50ivWjg8oszwPzJ" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-12T07:33:51.114Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="cUEYlIZtqkK0qiwu2E2e" type="github" pages="4">
   <diagram id="G4YbkNKK7T9ojeRpeivn" name="架构图">
     <mxGraphModel dx="1153" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,7 +540,7 @@
           <mxGeometry x="530" y="365" width="170" height="65" as="geometry" />
         </mxCell>
         <mxCell id="oKRAkwl6fG-iSfvQjHdi-6" value="用户集成服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="180" width="170" height="60" as="geometry" />
+          <mxGeometry x="1120" y="180" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oKRAkwl6fG-iSfvQjHdi-7" value="行业数据拉取服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="835" y="407.5" width="170" height="60" as="geometry" />
@@ -549,10 +549,10 @@
           <mxGeometry x="835" y="340" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oKRAkwl6fG-iSfvQjHdi-26" value="设备证书服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="327.5" width="170" height="60" as="geometry" />
+          <mxGeometry x="1130" y="330" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oKRAkwl6fG-iSfvQjHdi-34" value="风控服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="407.5" width="170" height="60" as="geometry" />
+          <mxGeometry x="1130" y="410" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oKRAkwl6fG-iSfvQjHdi-46" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="530" width="280" height="180" as="geometry" />
