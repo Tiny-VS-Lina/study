@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T05:29:20.047Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="3NsMtjHiCuaHy7yX6UH0" type="github" pages="3">
-  <diagram id="G4YbkNKK7T9ojeRpeivn" name="架构图1">
-    <mxGraphModel dx="1483" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-12-12T05:35:22.673Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="qnRO5Q0zAAogctEEEMpn" type="github" pages="3">
+  <diagram id="G4YbkNKK7T9ojeRpeivn" name="架构图">
+    <mxGraphModel dx="1038" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="M0PuQdPBtQ2sDzGUFWcR-7" value="服务发现SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="M0PuQdPBtQ2sDzGUFWcR-45">
           <mxGeometry x="188" y="250" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Rgy3PI4U6VEe0lQh67p2-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#666666;strokeWidth=3;" edge="1" parent="M0PuQdPBtQ2sDzGUFWcR-45" source="M0PuQdPBtQ2sDzGUFWcR-8" target="M0PuQdPBtQ2sDzGUFWcR-43">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M0PuQdPBtQ2sDzGUFWcR-8" value="服务发现SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="M0PuQdPBtQ2sDzGUFWcR-45">
           <mxGeometry x="20" y="250" width="120" height="20" as="geometry" />
@@ -366,7 +363,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="wN2Pl5zZOunov7lbkHqp" name="架构图">
+  <diagram id="wN2Pl5zZOunov7lbkHqp" name="架构图-01">
     <mxGraphModel dx="1298" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
