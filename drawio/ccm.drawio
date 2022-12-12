@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T03:41:32.547Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="jBe0Tidwis6yO5scZ3c9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-12T04:05:29.491Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="mHA-xVJ-7P0kIPtoe0o9" type="github" pages="3">
   <diagram id="G4YbkNKK7T9ojeRpeivn" name="架构图1">
     <mxGraphModel dx="1483" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,6 +171,50 @@
             <mxPoint x="420" y="240" as="sourcePoint" />
             <mxPoint x="470" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lgY8jj6EvS-wMzNoSNfV" name="第 3 页">
+    <mxGraphModel dx="1038" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zs38UowoLqDGT-_QNAw6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zs38UowoLqDGT-_QNAw6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zs38UowoLqDGT-_QNAw6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zs38UowoLqDGT-_QNAw6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zs38UowoLqDGT-_QNAw6-19" value="卡DB-Set01&lt;br&gt;（异步备)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zs38UowoLqDGT-_QNAw6-20" value="卡DB-Set01&lt;br&gt;（异步备)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zs38UowoLqDGT-_QNAw6-6" value="卡DB-Set01&lt;br&gt;主" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;container=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zs38UowoLqDGT-_QNAw6-9" value="卡DB-Set01&lt;br&gt;(单同步备)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;container=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zs38UowoLqDGT-_QNAw6-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zs38UowoLqDGT-_QNAw6-6" target="Zs38UowoLqDGT-_QNAw6-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="600" as="sourcePoint" />
+            <mxPoint x="300" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zs38UowoLqDGT-_QNAw6-26" value="卡DB-Set01&lt;br&gt;（异步备)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="870" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zs38UowoLqDGT-_QNAw6-27" value="卡DB-Set01&lt;br&gt;（异步备)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="740" y="500" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
