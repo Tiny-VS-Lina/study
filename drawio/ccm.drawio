@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T07:44:21.851Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="3GaMOhzpcmvrC8oiBt4t" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-12T07:44:50.783Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="dCdlAUYb7DUMQ7US-lIY" type="github" pages="4">
   <diagram id="G4YbkNKK7T9ojeRpeivn" name="架构图">
     <mxGraphModel dx="1153" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lgY8jj6EvS-wMzNoSNfV" name="部署图">
-    <mxGraphModel dx="1221" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -484,25 +484,25 @@
           <mxGeometry x="274" y="1330" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WwrPOSsWCXTmyzIuu2Uo-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="467" y="1120" width="533" height="160" as="geometry" />
+          <mxGeometry x="460" y="1120" width="540" height="160" as="geometry" />
         </mxCell>
         <mxCell id="WwrPOSsWCXTmyzIuu2Uo-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WwrPOSsWCXTmyzIuu2Uo-43">
-          <mxGeometry width="533" height="160" as="geometry" />
+          <mxGeometry width="540" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fx46ViOvR5zKHXaJ0Wgr-14" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WwrPOSsWCXTmyzIuu2Uo-43">
-          <mxGeometry x="40" y="49" width="120" height="60" as="geometry" />
+          <mxGeometry x="40.52532833020638" y="49" width="121.57598499061913" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fx46ViOvR5zKHXaJ0Wgr-15" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WwrPOSsWCXTmyzIuu2Uo-43">
-          <mxGeometry x="354" y="49" width="120" height="60" as="geometry" />
+          <mxGeometry x="358.64915572232644" y="49" width="121.57598499061913" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwrPOSsWCXTmyzIuu2Uo-26" value="通用缓存01" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WwrPOSsWCXTmyzIuu2Uo-43">
-          <mxGeometry x="60" y="69" width="120" height="60" as="geometry" />
+          <mxGeometry x="60.78799249530957" y="69" width="121.57598499061913" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwrPOSsWCXTmyzIuu2Uo-27" value="通用缓存02" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WwrPOSsWCXTmyzIuu2Uo-43">
-          <mxGeometry x="374" y="69" width="120" height="60" as="geometry" />
+          <mxGeometry x="378.9118198874296" y="69" width="121.57598499061913" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwrPOSsWCXTmyzIuu2Uo-41" value="通用缓存:CKV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="WwrPOSsWCXTmyzIuu2Uo-43">
-          <mxGeometry width="140" height="30" as="geometry" />
+          <mxGeometry width="141.83864915572232" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MhbMfrksu19w4zlSMJ-29" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeWidth=3;strokeColor=#666666;exitX=0.626;exitY=0.877;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WwrPOSsWCXTmyzIuu2Uo-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
