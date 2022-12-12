@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T07:33:51.114Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="cUEYlIZtqkK0qiwu2E2e" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-12T07:38:36.175Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.2" etag="1zJk5ti11tn1aFZeF4Er" type="github" pages="4">
   <diagram id="G4YbkNKK7T9ojeRpeivn" name="架构图">
     <mxGraphModel dx="1153" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -517,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rj8E7zyWwBPRxDKfF8fd" name="核心模块图">
-    <mxGraphModel dx="1730" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -601,6 +601,18 @@
         </mxCell>
         <mxCell id="oKRAkwl6fG-iSfvQjHdi-11" value="卡DB读服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="oKRAkwl6fG-iSfvQjHdi-59">
           <mxGeometry x="35" y="105" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRAkwl6fG-iSfvQjHdi-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="160" width="210" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRAkwl6fG-iSfvQjHdi-61" value="内部API网关" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="190" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRAkwl6fG-iSfvQjHdi-63" value="账务系统对接服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="330" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRAkwl6fG-iSfvQjHdi-64" value="运营系统对接服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="410" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
