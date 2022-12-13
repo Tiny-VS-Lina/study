@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T03:28:57.245Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WQ_Wnn6QSSASQjhC4O-Y" version="20.6.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-12-13T03:29:28.064Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wp21RWaQnpjdbpso1Sgn" version="20.6.2" type="github" pages="6">
   <diagram id="yu-dqQg2ILVOB0d_rVwu" name="流程说明">
     <mxGraphModel dx="2130" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -447,7 +447,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="部署图" id="YdcaaGlhz-xwsacsd17v">
-    <mxGraphModel dx="5112" dy="2568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3651" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EBdg_vOYFOucfQMhShXF-0" />
         <mxCell id="EBdg_vOYFOucfQMhShXF-1" parent="EBdg_vOYFOucfQMhShXF-0" />
@@ -515,19 +515,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EBdg_vOYFOucfQMhShXF-37" value="" style="group" vertex="1" connectable="0" parent="EBdg_vOYFOucfQMhShXF-1">
-          <mxGeometry x="10" y="580" width="290" height="400" as="geometry" />
+          <mxGeometry y="610" width="260" height="400" as="geometry" />
         </mxCell>
         <mxCell id="EBdg_vOYFOucfQMhShXF-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="EBdg_vOYFOucfQMhShXF-37">
-          <mxGeometry width="290" height="400" as="geometry" />
+          <mxGeometry width="260" height="400" as="geometry" />
         </mxCell>
         <mxCell id="EBdg_vOYFOucfQMhShXF-39" value="乘车码账务系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="EBdg_vOYFOucfQMhShXF-37">
-          <mxGeometry x="40" y="40.00230769230768" width="200" height="76.15384615384616" as="geometry" />
+          <mxGeometry x="35.86206896551724" y="40.00230769230768" width="179.31034482758622" height="76.15384615384616" as="geometry" />
         </mxCell>
         <mxCell id="EBdg_vOYFOucfQMhShXF-40" value="乘车码运营系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="EBdg_vOYFOucfQMhShXF-37">
-          <mxGeometry x="40" y="151.92230769230775" width="200" height="76.15384615384616" as="geometry" />
+          <mxGeometry x="35.86206896551724" y="151.92230769230775" width="179.31034482758622" height="76.15384615384616" as="geometry" />
         </mxCell>
         <mxCell id="EBdg_vOYFOucfQMhShXF-41" value="乘车码出行系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="EBdg_vOYFOucfQMhShXF-37">
-          <mxGeometry x="40" y="280.00230769230757" width="200" height="76.15384615384616" as="geometry" />
+          <mxGeometry x="35.86206896551724" y="280.00230769230757" width="179.31034482758622" height="76.15384615384616" as="geometry" />
         </mxCell>
         <mxCell id="EBdg_vOYFOucfQMhShXF-42" value="" style="group" vertex="1" connectable="0" parent="EBdg_vOYFOucfQMhShXF-1">
           <mxGeometry x="285.5" y="1430" width="1103" height="230" as="geometry" />
