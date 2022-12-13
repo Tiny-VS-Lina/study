@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T07:53:39.569Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CkXH6JOL3wFt6jOeaq0S" version="20.6.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-12-13T07:55:30.795Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NtxG5vqsxS_PgLVSea42" version="20.6.2" type="github" pages="8">
   <diagram id="yu-dqQg2ILVOB0d_rVwu" name="流程说明">
     <mxGraphModel dx="1038" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2041,6 +2041,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="oqOZyDcbgVVy1NvdhUc1-1" value="1. 主机挂这么多备机，是否能承受的住&lt;br style=&quot;font-size: 18px;&quot;&gt;2. DB这么多副本，浪费资源&lt;br style=&quot;font-size: 18px;&quot;&gt;3. 用户DB/卡DB 主机做读写&lt;br style=&quot;font-size: 18px;&quot;&gt;4. 卡DB备机无流量【如果保障后续是可用的】&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;br&gt;10.&amp;nbsp; 行业数据缓存 -&amp;nbsp; 总共6份数据?；后续切换成4份&lt;br&gt;11.&amp;nbsp; 缓存数据等要跨城备份&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 行业数据不跨城备份;&amp;nbsp; 查询商户； 跨城场景有效期短;&lt;br&gt;12. 行业数据更新整体逻辑&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;21. 机房级故障，cgi的L5修改&amp;nbsp; vs 变更gslb的配置?&lt;br&gt;22. stgw 和 CGI层， 为什么这么多网关&lt;br&gt;&lt;br&gt;23. 健康度如何上报&lt;br&gt;24. relay切换策略&lt;br&gt;25. bankproxy切换策略" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="160" y="140" width="490" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="1skdNlHZ6FGBgq3N4T1m-1" value="行业数据&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;1.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="710" width="480" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
