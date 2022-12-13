@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T09:54:21.381Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aNA5AE904sZndkciHNmJ" version="20.6.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-12-13T11:39:27.983Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WrQTg0Cm0Ff1-RgIVqEq" version="20.6.2" type="github" pages="8">
   <diagram id="yu-dqQg2ILVOB0d_rVwu" name="流程说明">
-    <mxGraphModel dx="1038" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2129" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,7 +268,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="逻辑架构图(概要)" id="M49fVHt3cJXl_XYMcX9H">
-    <mxGraphModel dx="1038" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1490" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8vfE_GPwuyJYE2DbFT7K-0" />
         <mxCell id="8vfE_GPwuyJYE2DbFT7K-1" parent="8vfE_GPwuyJYE2DbFT7K-0" />
@@ -574,7 +574,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="部署图" id="YdcaaGlhz-xwsacsd17v">
-    <mxGraphModel dx="2595" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2980" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EBdg_vOYFOucfQMhShXF-0" />
         <mxCell id="EBdg_vOYFOucfQMhShXF-1" parent="EBdg_vOYFOucfQMhShXF-0" />
@@ -596,7 +596,7 @@
         <mxCell id="NDB0Hw_eb0a9JEhcSgUp-24" value="业务缓存52" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="NDB0Hw_eb0a9JEhcSgUp-19" vertex="1">
           <mxGeometry x="315.05724063650894" y="69" width="112.5703564727955" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9st7NghdM-V3jsXDBd8N-0" value="缓存-CKV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="NDB0Hw_eb0a9JEhcSgUp-19">
+        <mxCell id="9st7NghdM-V3jsXDBd8N-0" value="缓存-CKV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="NDB0Hw_eb0a9JEhcSgUp-19" vertex="1">
           <mxGeometry width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EBdg_vOYFOucfQMhShXF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="EBdg_vOYFOucfQMhShXF-1" vertex="1">
@@ -1340,8 +1340,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="G4YbkNKK7T9ojeRpeivn" name="逻辑架构图(OLD)">
-    <mxGraphModel dx="1038" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="G4YbkNKK7T9ojeRpeivn" name="逻辑架构图1">
+    <mxGraphModel dx="1490" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
