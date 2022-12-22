@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T11:43:02.024Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="O1yH-QfwWm2w9Rym1rd1" version="20.7.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-22T11:50:50.688Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5aSZ5bXeVVbt6YsBurK9" version="20.7.4" type="github" pages="7">
   <diagram id="yu-dqQg2ILVOB0d_rVwu" name="流程说明">
     <mxGraphModel dx="1050" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
           <mxGeometry x="230" y="520" width="40" height="250" as="geometry" />
         </mxCell>
         <mxCell id="gupVtkErY-x4jR-GN4kC-29" value="2.1请&lt;br&gt;求&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;拉&lt;br&gt;码&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="280" y="520" width="60" height="260" as="geometry" />
+          <mxGeometry x="280" y="520" width="60" height="250" as="geometry" />
         </mxCell>
         <mxCell id="gupVtkErY-x4jR-GN4kC-30" value="2.2 商户侧拉码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="430" y="170" width="240" height="40" as="geometry" />
