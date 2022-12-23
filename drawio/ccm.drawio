@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T12:31:52.274Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OMbzNYzQVVNSRbUm5GO0" version="20.7.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-23T09:00:15.119Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-XQIVxEvgAm4wpcM6obz" version="20.7.4" type="github" pages="7">
   <diagram id="yu-dqQg2ILVOB0d_rVwu" name="流程说明">
-    <mxGraphModel dx="1909" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -453,7 +453,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="部署图(跨城多活)" id="YdcaaGlhz-xwsacsd17v">
-    <mxGraphModel dx="1909" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EBdg_vOYFOucfQMhShXF-0" />
         <mxCell id="EBdg_vOYFOucfQMhShXF-1" parent="EBdg_vOYFOucfQMhShXF-0" />
@@ -872,6 +872,9 @@
         <mxCell id="EBdg_vOYFOucfQMhShXF-8" value="卡DB-Set02&lt;br&gt;主" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;container=0;" parent="EBdg_vOYFOucfQMhShXF-1" vertex="1">
           <mxGeometry x="1152.48" y="810" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0GtOOrdI6dBTo9EIgMlT-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EBdg_vOYFOucfQMhShXF-1" source="EBdg_vOYFOucfQMhShXF-9" target="EBdg_vOYFOucfQMhShXF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EBdg_vOYFOucfQMhShXF-9" value="卡DB-Set02&lt;br&gt;(单同步备)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;container=0;" parent="EBdg_vOYFOucfQMhShXF-1" vertex="1">
           <mxGeometry x="1152.48" y="910" width="100" height="60" as="geometry" />
         </mxCell>
@@ -1113,7 +1116,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="部署图(同城双活)" id="OcP3Wp1JFQFPjHir0ylr">
-    <mxGraphModel dx="2062" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IBgNbk9KESyYootpUAl--0" />
         <mxCell id="IBgNbk9KESyYootpUAl--1" parent="IBgNbk9KESyYootpUAl--0" />
@@ -1418,7 +1421,7 @@
         <mxCell id="BH2xJ4FHTHu9TXcR5M8f-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;卡数据数据&lt;/b&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;(SET数据)&lt;/span&gt;:&lt;/span&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;开卡&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;信息&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 行业数据&lt;br style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;卡证书数据(拉码记录)&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;spacingTop=0;spacing=2;spacingBottom=10;" parent="IBgNbk9KESyYootpUAl--1" vertex="1">
           <mxGeometry x="487" y="660" width="340" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="r-yDkQSa_vmhqPqVuFUx-1" value="光明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;fontStyle=1" vertex="1" parent="IBgNbk9KESyYootpUAl--1">
+        <mxCell id="r-yDkQSa_vmhqPqVuFUx-1" value="光明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;fontStyle=1" parent="IBgNbk9KESyYootpUAl--1" vertex="1">
           <mxGeometry x="228.5" y="160" width="79.75" height="30" as="geometry" />
         </mxCell>
       </root>
