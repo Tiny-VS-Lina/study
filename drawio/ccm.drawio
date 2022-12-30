@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T07:14:37.262Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sYGIlGoFikdxjEnxX2dE" version="20.7.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-30T08:39:50.953Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Gpp_plUktmvnlbsur0eM" version="20.7.4" type="github" pages="7">
   <diagram id="yu-dqQg2ILVOB0d_rVwu" name="流程说明">
     <mxGraphModel dx="1500" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="180" y="190" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gupVtkErY-x4jR-GN4kC-19" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="180" y="980" width="200" height="80" as="geometry" />
+          <mxGeometry x="180" y="850" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gupVtkErY-x4jR-GN4kC-20" value="商户闸机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="840" y="980" width="200" height="80" as="geometry" />
+          <mxGeometry x="840" y="850" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gupVtkErY-x4jR-GN4kC-21" value="商户后台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="840" y="190" width="200" height="70" as="geometry" />
@@ -27,8 +27,8 @@
         </mxCell>
         <mxCell id="gupVtkErY-x4jR-GN4kC-23" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;strokeWidth=5;fontSize=25;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;" parent="1" source="gupVtkErY-x4jR-GN4kC-19" target="gupVtkErY-x4jR-GN4kC-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="1080" as="sourcePoint" />
-            <mxPoint x="640" y="1030" as="targetPoint" />
+            <mxPoint x="590" y="950" as="sourcePoint" />
+            <mxPoint x="640" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gupVtkErY-x4jR-GN4kC-24" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;strokeWidth=5;fontSize=25;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#fff2cc;" parent="1" source="gupVtkErY-x4jR-GN4kC-20" target="gupVtkErY-x4jR-GN4kC-21" edge="1">
@@ -68,7 +68,7 @@
           <mxGeometry x="430" y="130" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s6BjZw7QCWQ93VPxm_vX-1" value="3.1 用户&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;扫码&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1030" width="240" height="40" as="geometry" />
+          <mxGeometry x="480" y="900" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s6BjZw7QCWQ93VPxm_vX-3" value="4.1 上传交易" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="830" y="560" width="50" height="180" as="geometry" />
